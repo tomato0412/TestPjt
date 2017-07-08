@@ -19,7 +19,7 @@ public class HelloWorld {
 	}
 	
 	public static void main(String[] a) {
-		System.out.println("first change in git!");
+		System.out.println("auto build test 2!");
 		int m = 0;
 		m += 0.1;
 		System.out.println(m);
